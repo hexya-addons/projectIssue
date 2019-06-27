@@ -1,0 +1,9 @@
+ID,name,res_model,default,hidden,description,sequence,parent_id,relation_field
+mt_issue_new,Issue Opened,project.issue,,,Issue opened,,,
+mt_issue_blocked,Issue Blocked,project.issue,,,Issue blocked,,,
+mt_issue_ready,Issue Ready,project.issue,,,Issue ready for next stage,,,
+mt_issue_stage,Stage Changed,project.issue,,,Stage changed,,,
+mt_project_issue_new,Issue Opened,project.project,,,,20,,project_id
+mt_project_issue_blocked,Issue Blocked,project.project,,,,21,,project_id
+mt_project_issue_ready,Issue Ready,project.project,,,,22,,project_id
+mt_project_issue_stage,Issue Stage Changed,project.project,,,Stage changed,23,,project_id

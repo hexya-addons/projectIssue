@@ -1,0 +1,17 @@
+ID,date,user_id,partner_id,project_id,duration,name,email_from,stage_id,tag_ids,priority
+crm_case_buginaccountsmodule0,,base.user_root,portal.partner_demo_portal,project.project_project_1,,Bug in Accounts module,agr@agrolait.com,project.project_stage_1,,
+crm_case_programnotgivingproperoutput0,,base.user_root,base.res_partner_1,project.project_project_4,,Program not giving proper output,,project.project_stage_1,,1
+crm_case_outputincorrect0,,base.user_demo,,project.project_project_5,,Output incorrect,,project.project_stage_2,,
+crm_case_problemloadingpage0,,base.user_root,base.res_partner_4,project.project_project_4,,Problem loading page,,project.project_stage_0,,1
+crm_case_pagenotfound0,,base.user_root,base.res_partner_2,project.project_project_4,,Page not Found,,project.project_stage_0,,1
+crm_case_programmingerror0,,base.user_root,base.res_partner_3,project.project_project_4,,Programming Error,,project.project_stage_0,,1
+crm_case_logicalerrorinprogram0,,base.user_root,base.res_partner_1,project.project_project_2,,Logical Error in Program,,project.project_stage_3,,2
+crm_case_constrainterror0,,base.user_root,base.res_partner_1,project.project_project_2,,Constraint Error,,project.project_stage_1,,2
+crm_case_errorinprogram0,,base.user_demo,base.res_partner_3,project.project_project_4,,Error in Program,,project.project_stage_1,,2
+crm_case_patcheserrorinprogram0,,base.user_root,base.res_partner_2,project.project_project_2,,Patches Error in Program,,project.project_stage_1,,2
+crm_case_newfeaturestobeadded0,,base.user_root,base.res_partner_12,project.project_project_3,,New Features To Be Added,,project.project_stage_1,,
+crm_case_addmenustothemodule0,,base.user_demo,base.res_partner_12,project.project_project_3,,Add menus to the module,info@opensides.be,project.project_stage_2,,1
+crm_case_includeattendancesheetinproject0,,base.user_root,base.res_partner_10,project.project_project_2,,Include Attendance sheet in Project,contact@tecsas.fr,project.project_stage_1,,1
+crm_case_createnewobject0,,base.user_root,base.res_partner_1,project.project_project_4,,Create new object,,project.project_stage_0,,1
+crm_case_improvereportsinhrms0,,base.user_root,base.res_partner_3,project.project_project_4,,Improve Reports in HRMS,,project.project_stage_2,,
+crm_case_improvereportsinpms0,,base.user_demo,base.res_partner_3,project.project_project_4,,Improve Reports in PMS,,project.project_stage_1,,2

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hexya>
+    <data>
+	<view id="analytic_account_inherited_issue_form" model="AccountAnalyticAccount" >
+            <xpath expr='//div[@name="project"]' position='inside'>
+                <field name="use_issues" groups="base.group_no_one"/>
+                <label for="use_issues" groups="base.group_no_one"/>
+            </xpath>
+        </view>
+    </data>
+</hexya>
